@@ -77,3 +77,20 @@ https://astatv.karaa.web.id/api/s/9.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg" ,GTV
 https://astatv.karaa.web.id/api/s/10.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?w=256&q=75" ,beIN Sports ENG
+https://bein-xtra-bein.amagi.tv/playlistR720P.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/2560px-Fox_Sports_1_logo.svg.png" , FOX SPORTS
+https://astatv.karaa.web.id/api/s/185.m3u8
+
+#EXTINF:-1 tvg-logo="https://astatv.karaa.web.id/api/lg?t=qhg6gQs5eWO8I78x4KHQNomnAr5YG8CnDfxVvbKgsEP18UIYJ_cMuJZ8vbeOwC1XzSm9e-XhsLeTLwDAIPiKAa2Yrqi_GYdFn8dGIGr35rHewbbfjzWyz-Vn6oRNRkD1CEYWTc_9M0Q6nd-5_ombcHl6DUae_MXU77yFXH6v_FSDoqy6N9LZFGk9LaW9xSPtI7NSYC9e_uxLVfuMsrtck8TZMX_zuvwsng" ,HOLLYWOOD MOVIES
+https://astatv.karaa.web.id/api/s/5431.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JzqSzcj9/200px-Logo-bdg-tv-2016.png" ,Bandung TV
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sXsAcZ3.png" ,Garuda TV
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+
+#EXTINF:-1 tvg-logo="https://astatv.karaa.web.id/api/lg?t=LhjcHWY8de_TkysT2_pglF_OqPgdceXSRjfW-j-IEm6YFy6iSGFcug94KI9QIyva2WrWBuGyhviHXwwhb_qjmobHIAofuCS69bC7CmJH1Bht_5ABD8Bj3CztFp6FDqvrl6zniu6krirQSTgZaB6EKiUbLf4cX8z2nlvkYdQWgGVHkgqxOm9-srDpdQk-1rUPN8qQ9xSzqg1ICIeuzfnsCrvnxipEGzUwfw" ,mOji
+https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
