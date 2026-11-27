@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QnU70NI.png" ,Metro TV
-https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?w=256&q=75" ,beIN Sports ENG
+https://bein-xtra-bein.amagi.tv/playlistR720P.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JzqSzcj9/200px-Logo-bdg-tv-2016.png" ,Bandung TV
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png" ,BRTV
 https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
@@ -17,17 +21,47 @@ https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YC7JCHo.png" ,DAAI
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/2560px-Fox_Sports_1_logo.svg.png" , FOX SPORTS
+https://astatv.karaa.web.id/api/s/185.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sXsAcZ3.png" ,Garuda TV
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg" ,GTV
+https://astatv.karaa.web.id/api/s/10.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/192wiS1.png" ,Indonesiana
 https://tvstreamcast.com/indonesiana.m3u8
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wSfbef0k6V3fn7rnZa4azgVrLcM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/728/eb7747.png" ,iNews
+https://astatv.karaa.web.id/api/s/5106.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Pf8yLSfHEUZeRI9tUzLDR2U8Zow=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png" ,Kompas TV
+https://astatv.karaa.web.id/api/s/18.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QnU70NI.png" ,Metro TV
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OUPGCWG.png" ,MIC
 https://mic.siar.us/mic/live/mic.m3u8
+
+#EXTINF:-1 tvg-logo="https://astatv.karaa.web.id/api/lg?t=jTJXSmOwo71ttujrQROVZNACYyVBJwaSuyRY4lZOIOEOhd29cdMX6X84hkFF9-hJGt2mWJ23xe9WF9lxxHte7TY1NYJL7K40sz0ug7hFc6nRMRECmliSFyXQ9S-677tLm-AFLG-Xjlnpv906MnKp9bzjT9eKVI7lQ_feY0LI7fOSEhBcRQMHI0BiP8prlEzERrg04Z0ZqaQlX_O6NW2qvGegWApcHWlBvQ" ,MNC Entertainment
+https://astatv.karaa.web.id/api/s/725.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" ,MNCTV
+https://astatv.karaa.web.id/api/s/9.m3u8
+
+#EXTINF:-1 tvg-logo="https://astatv.karaa.web.id/api/lg?t=LhjcHWY8de_TkysT2_pglF_OqPgdceXSRjfW-j-IEm6YFy6iSGFcug94KI9QIyva2WrWBuGyhviHXwwhb_qjmobHIAofuCS69bC7CmJH1Bht_5ABD8Bj3CztFp6FDqvrl6zniu6krirQSTgZaB6EKiUbLf4cX8z2nlvkYdQWgGVHkgqxOm9-srDpdQk-1rUPN8qQ9xSzqg1ICIeuzfnsCrvnxipEGzUwfw" ,mOji
+https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O8WONFB.png" ,Nabawi TV
 http://202.150.161.117:8000/play/NabawiTV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viun5hj.png" ,Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://rtv.co.id/img/rtv.png" ,Rajawali TV
+https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CyIlt0y.png" ,RCTV
 https://v10.siar.us/rctv/live/playlist.m3u8
@@ -62,38 +96,13 @@ https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/960px-TVRIWorld.png" ,TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wSfbef0k6V3fn7rnZa4azgVrLcM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/728/eb7747.png" ,iNews
-https://astatv.karaa.web.id/api/s/5106.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Pf8yLSfHEUZeRI9tUzLDR2U8Zow=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png" ,Kompas TV
-https://astatv.karaa.web.id/api/s/18.m3u8
-
-#EXTINF:-1 tvg-logo="https://astatv.karaa.web.id/api/lg?t=jTJXSmOwo71ttujrQROVZNACYyVBJwaSuyRY4lZOIOEOhd29cdMX6X84hkFF9-hJGt2mWJ23xe9WF9lxxHte7TY1NYJL7K40sz0ug7hFc6nRMRECmliSFyXQ9S-677tLm-AFLG-Xjlnpv906MnKp9bzjT9eKVI7lQ_feY0LI7fOSEhBcRQMHI0BiP8prlEzERrg04Z0ZqaQlX_O6NW2qvGegWApcHWlBvQ" ,MNC Entertainment
-https://astatv.karaa.web.id/api/s/725.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" ,MNCTV
-https://astatv.karaa.web.id/api/s/9.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg" ,GTV
-https://astatv.karaa.web.id/api/s/10.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?w=256&q=75" ,beIN Sports ENG
-https://bein-xtra-bein.amagi.tv/playlistR720P.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/2560px-Fox_Sports_1_logo.svg.png" , FOX SPORTS
-https://astatv.karaa.web.id/api/s/185.m3u8
-
 #EXTINF:-1 tvg-logo="https://astatv.karaa.web.id/api/lg?t=qhg6gQs5eWO8I78x4KHQNomnAr5YG8CnDfxVvbKgsEP18UIYJ_cMuJZ8vbeOwC1XzSm9e-XhsLeTLwDAIPiKAa2Yrqi_GYdFn8dGIGr35rHewbbfjzWyz-Vn6oRNRkD1CEYWTc_9M0Q6nd-5_ombcHl6DUae_MXU77yFXH6v_FSDoqy6N9LZFGk9LaW9xSPtI7NSYC9e_uxLVfuMsrtck8TZMX_zuvwsng" ,HOLLYWOOD MOVIES
 https://astatv.karaa.web.id/api/s/5431.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JzqSzcj9/200px-Logo-bdg-tv-2016.png" ,Bandung TV
-http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sXsAcZ3.png" ,Garuda TV
-https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
-#EXTINF:-1 tvg-logo="https://astatv.karaa.web.id/api/lg?t=LhjcHWY8de_TkysT2_pglF_OqPgdceXSRjfW-j-IEm6YFy6iSGFcug94KI9QIyva2WrWBuGyhviHXwwhb_qjmobHIAofuCS69bC7CmJH1Bht_5ABD8Bj3CztFp6FDqvrl6zniu6krirQSTgZaB6EKiUbLf4cX8z2nlvkYdQWgGVHkgqxOm9-srDpdQk-1rUPN8qQ9xSzqg1ICIeuzfnsCrvnxipEGzUwfw" ,mOji
-https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://rtv.co.id/img/rtv.png" ,Rajawali TV
-https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
+
+
+
+
