@@ -94,3 +94,6 @@ https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
 #EXTINF:-1 tvg-logo="https://astatv.karaa.web.id/api/lg?t=LhjcHWY8de_TkysT2_pglF_OqPgdceXSRjfW-j-IEm6YFy6iSGFcug94KI9QIyva2WrWBuGyhviHXwwhb_qjmobHIAofuCS69bC7CmJH1Bht_5ABD8Bj3CztFp6FDqvrl6zniu6krirQSTgZaB6EKiUbLf4cX8z2nlvkYdQWgGVHkgqxOm9-srDpdQk-1rUPN8qQ9xSzqg1ICIeuzfnsCrvnxipEGzUwfw" ,mOji
 https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://rtv.co.id/img/rtv.png" ,Rajawali TV
+https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
