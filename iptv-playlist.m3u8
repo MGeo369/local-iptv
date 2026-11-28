@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png" ,ANTV
+http://103.165.207.108:8000/play/a004/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?w=256&q=75" ,beIN Sports ENG
 https://bein-xtra-bein.amagi.tv/playlistR720P.m3u8
 
@@ -39,6 +42,9 @@ https://astatv.karaa.web.id/api/s/5106.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Pf8yLSfHEUZeRI9tUzLDR2U8Zow=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png" ,Kompas TV
 https://astatv.karaa.web.id/api/s/18.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/960px-MDTV_logo.svg.png" ,MDTV (NET)
+http://103.165.207.108:8000/play/a003/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QnU70NI.png" ,Metro TV
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
@@ -63,11 +69,17 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://rtv.co.id/img/rtv.png" ,Rajawali TV
 https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iLFx8ia.png" ,RCTI
+http://103.165.207.108:8000/play/a00e/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CyIlt0y.png" ,RCTV
 https://v10.siar.us/rctv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XwCeHlC.png" ,Rodja TV
 https://rodjatv.com/rodjatv/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EMmOvnQ.png" ,SCTV
+http://103.165.207.108:8000/play/a00b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jAAPgpV.png" ,The Indonesia Channel
 https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
